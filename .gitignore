@@ -2,3 +2,5 @@
 .markeditor
 /configs
 .gitignore
+/TODO
+/Private
